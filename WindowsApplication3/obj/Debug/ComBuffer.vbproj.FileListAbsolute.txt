@@ -1,0 +1,13 @@
+D:\OldProjects\WindowsApplication3\WindowsApplication3\bin\Debug\ComBuffert.exe.config
+D:\OldProjects\WindowsApplication3\WindowsApplication3\bin\Debug\ComBuffert.exe
+D:\OldProjects\WindowsApplication3\WindowsApplication3\bin\Debug\ComBuffert.pdb
+D:\OldProjects\WindowsApplication3\WindowsApplication3\bin\Debug\ComBuffert.xml
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffer.vbproj.AssemblyReference.cache
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffert.Form1.resources
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffert.Form2.resources
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffert.Resources.resources
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffer.vbproj.GenerateResource.cache
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffer.vbproj.CoreCompileInputs.cache
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffert.exe
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffert.xml
+D:\OldProjects\WindowsApplication3\WindowsApplication3\obj\Debug\ComBuffert.pdb
